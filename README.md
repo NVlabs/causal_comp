@@ -13,7 +13,7 @@ cd docker_cfg
 docker build --network=host -t causal_comp -f Dockerfile .
 cd ..
 ```
-
+Hallooooo
 
 #### Prepare UT Zappos50KUT with TMN split:
 To reproduce Zappos50KUT results according to TMN evaluation split, you should prepare the dataset according to 
